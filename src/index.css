@@ -1,0 +1,10 @@
+*::-webkit-scrollbar{
+    display: none;
+}
+.navbar{
+    padding: 0 !important;
+}
+.navbar h5{
+    margin-bottom: 0;
+}
+
