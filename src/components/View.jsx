@@ -60,7 +60,7 @@ function View({reloadView}) {
               </Col>
             ))
             :
-            <div className='text-danger fw-bolder'>No recipes are uploaded yet!!!</div>
+            <div className='text-danger fw-bolder'>No designs are uploaded yet!!!</div>
             }
         </Row>
         </div>
